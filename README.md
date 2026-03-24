@@ -101,8 +101,3 @@ Você pode adaptar facilmente:
 - Projeto com foco educacional e de prototipagem.
 - Não há persistência em banco nem ingestão de dados externos.
 - Não há suíte de testes automatizados configurada neste repositório.
-
-## 📄 Licença
-
-Sem licença explícita no repositório até o momento.
-Se for publicar, recomenda-se adicionar uma licença (ex.: MIT).
